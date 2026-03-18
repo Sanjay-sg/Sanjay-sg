@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media.licdn.com/dms/image/D4E12AQF7RKVvozyLtg/article-cover_image-shrink_600_2000/0/1665494659870?e=2147483647&v=beta&t=rn_4rvDOuUwWD7Qb0_wZczta12SlSO-5izcoSVahvsw" alt="Header GIF" ">
+    //<img src="https://media.licdn.com/dms/image/D4E12AQF7RKVvozyLtg/article-cover_image-shrink_600_2000/0/1665494659870?e=2147483647&v=beta&t=rn_4rvDOuUwWD7Qb0_wZczta12SlSO-5izcoSVahvsw" alt="Header GIF" "
 </p>
 <h1 align="center">Hi 👋, I'm Sanjay G</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **R ,Data Analytics**
 
-- 📫 How to reach me **ceosanjaysg01@gmail.com**
+- 📫 How to reach me **sanjaysg01065@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
