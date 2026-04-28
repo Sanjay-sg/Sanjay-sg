@@ -148,12 +148,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-![Snake animation](https://github.com/Sanjay-sg/Sanjay-sg/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
 <div align="center">
 
 *"Data is the new oil. I help refine it."*
