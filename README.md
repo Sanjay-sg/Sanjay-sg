@@ -21,10 +21,10 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Final-year **B.Tech in AI & Data Science** at Saveetha Engineering College (2022–2026)
-- 🔭 Currently building **DataLynx** — an NLP-to-SQL engine for natural language database interaction
+- 🔭 Build **DataLynx** — an NLP-to-SQL engine for natural language database interaction
 - 💼 2× Industry intern: **Data Science** @ Arjun Vision Tech · **AI** @ Retech Solutions
 - 🏅 Microsoft Azure Certified · MongoDB Certified Developer
-- 💬 Ask me about **Python, ETL pipelines, NLP, OpenCV, Power BI, ML model deployment**
+- 💬 Ask me about **Python, ETL pipelines, NLP, OpenCV, Power BI, ML model deployment, LLM, Gen AI, Java, C program**
 - 📫 Reach me: **sanjaysg01065@gmail.com**
 - ⚡ Fun fact: I built an ANPR system that detects number plates across varying lighting conditions
 
