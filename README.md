@@ -20,7 +20,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final-year **B.Tech in AI & Data Science** at Saveetha Engineering College (2022–2026)
 - 🔭 Build **DataLynx** — an NLP-to-SQL engine for natural language database interaction
 - 💼 2× Industry intern: **Data Science** @ Arjun Vision Tech · **AI** @ Retech Solutions
 - 🏅 Microsoft Azure Certified · MongoDB Certified Developer
